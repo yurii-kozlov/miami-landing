@@ -1,4 +1,8 @@
 # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+This is a Miami landing page, which consists of header, main part, gallery, form, menu and footer.
+Technologies used:
+-HTML
+-CSS
+-SCSS
+-BEM methodology
+-Javascript
